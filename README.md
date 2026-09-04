@@ -2,7 +2,7 @@
 
 <!-- ==================== PORTRAIT ==================== -->
 
-<!-- <img src="assets/portrait.svg" width="180" alt="Shubhang Singh - dot matrix portrait"/> -->
+<img src="assets/portrait.svg" width="180" alt="Shubhang Singh - dot matrix portrait"/>
 
 <br/>
 
@@ -42,7 +42,7 @@ My work sits at the intersection of **full-stack engineering, AI systems, backen
 - 📈 **9.64 / 10 CGPA**
 - 💻 Previously worked as a **Full-Stack Developer Intern at Emergians Infotech**
 - 🤖 Currently building and exploring **AI-powered applications and agentic systems**
-- 🧠 Solved **1699+ DSA problems** across competitive-programming platforms
+- 🧠 Solved **1,699 DSA problems** across competitive-programming platforms
 - 🚀 Interested in **AI Engineering, Full-Stack Development & Backend Systems**
 
 ---
@@ -226,19 +226,45 @@ A backend project focused on designing a GraphQL-based room booking system.
 
 ---
 
-# 🧠 Competitive Programming
+# 🧠 Competitive Programming & DSA
 
 <div align="center">
 
-| Platform | Current | Maximum |
+### 📊 Coding Profiles
+
+<a href="https://leetcode.com/u/shubh65432/">
+  <img src="https://img.shields.io/badge/LeetCode-1801-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/singhshubhang/">
+  <img src="https://img.shields.io/badge/Codeforces-1402-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/singhshubh7qz4?tab=activity/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-1850-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codolio.com/profile/Shubh_10">
+  <img src="https://img.shields.io/badge/Codolio-Profile-58A6FF?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+| Platform | Current Rating | Maximum Rating |
 |:---:|:---:|:---:|
-| 🟠 **LeetCode** | **1801** | **1805** |
-| 🟡 **CodeChef** | **1639** | **1695** |
-| 🔵 **Codeforces** | **1402** | **1424** |
+| [🟠 **LeetCode**](https://leetcode.com/u/shubh65432/) | **1801** | **1805** |
+| [🟡 **CodeChef**](https://www.codechef.com/) | **1639** | **1695** |
+| [🔵 **Codeforces**](https://codeforces.com/profile/singhshubhang/) | **1402** | **1424** |
 
 <br/>
 
-**1699+ problems solved · 37 contests · 462 active days**
+### 🧩 1,699 Problems Solved
+
+**Across LeetCode · GeeksforGeeks · Codeforces · CodeChef & other platforms**
+
+<br/>
+
+**37 Contests** · **462 Active Days** · **145 Day Max Streak**
 
 </div>
 
@@ -248,9 +274,8 @@ A backend project focused on designing a GraphQL-based room booking system.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubh-a11y&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" width="49%"/>
+<img width="1806" height="880" alt="image" src="https://github.com/user-attachments/assets/3c096473-da91-4efb-9abb-005936366d28" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-a11y&layout=compact&hide_border=true&langs_count=8&theme=transparent" width="49%"/>
 
 </div>
 
@@ -283,3 +308,13 @@ Practicing
 
 Looking for
     └── Opportunities to build challenging software with strong engineering teams
+```
+
+## 🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/shubhang-singh-28663b317/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/shubh-a11y"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://codolio.com/profile/Shubh_10"> <img src="https://img.shields.io/badge/Codolio-DSA_Profile-58A6FF?style=for-the-badge"/> </a> <a href="mailto:singhshubhang10906@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br/><br/>
+
+Thanks for visiting!
+
+</div> ```
